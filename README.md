@@ -1,6 +1,5 @@
 # Get Movie To Watch
 **getmovietowatch.com** - service will help you choose a movie to watch.
-.
 
 ## Structure
 ```
@@ -20,7 +19,7 @@ repository
 ## Clients
 1. Site:
 - **Entry point**: getmovietowatch.com/
-- **Stack**: React, TypeScript, REST API, JWT
+- **Stack**: React, TypeScript, Vite, REST API, JWT
 
 ## Servers
 1. Api
